@@ -1,2 +1,0 @@
-# cwiczenia_spring
-a
